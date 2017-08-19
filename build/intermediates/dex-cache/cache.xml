@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MurderedOut\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="C:\Users\MurderedOut\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\commons-lang3-3.5_7e4d7df9ffdab41bd3dd9fce2f09663952319cb5.jar" />
+    </item>
+
+</items>

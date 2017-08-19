@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\MurderedOut\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\MurderedOut\\.android\\build-cache\\72e6ede3c89f039878f8f4708788eaf9a18708b4\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\MurderedOut\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\MurderedOut\\.android\\build-cache\\72e6ede3c89f039878f8f4708788eaf9a18708b4\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\MurderedOut\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\MurderedOut\\.android\\build-cache\\72e6ede3c89f039878f8f4708788eaf9a18708b4\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\MurderedOut\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\MurderedOut\\.android\\build-cache\\72e6ede3c89f039878f8f4708788eaf9a18708b4\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
